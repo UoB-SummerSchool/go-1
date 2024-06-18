@@ -125,7 +125,7 @@ Given the differences that you found between arrays and slices:
 - Explain how `append()` works.
 - Give use cases for arrays and slices.
 
-## Question 4 - Game of Life :red_circle::red_circle::white_circle::white_circle::white_circle:
+<!--## Question 4 - Game of Life :red_circle::red_circle::white_circle::white_circle::white_circle:
 
 Time to test what you've learnt! 
 
@@ -153,8 +153,8 @@ Complete the `calculateAliveCells(p golParams, world [][] byte) []cell` function
 Make sure that all your tests pass! (`go test .`)
 
 Once all your tests pass you can use `go run .` and see if you get the hidden message when you open `output.pgm`.
-
-## Question 5 - Concurrent Hello World :red_circle::white_circle::white_circle::white_circle::white_circle:
+-->
+## Question 4 - Concurrent Hello World :red_circle::white_circle::white_circle::white_circle::white_circle:
 
 A goroutine is a lightweight thread of execution. Modify your `hello.go` so that it uses a for loop to start 5 goroutines and print `Hello from goroutine i` where `i` is the number of the goroutine.
 
