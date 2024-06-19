@@ -14,8 +14,8 @@ You can find all [setup guides here](https://github.com/UoB-CSA/setup-guides).
 
 There are two ways to use the lab sheet, you can either:
 
-- [create a new repo from this template](https://github.com/UoB-CSA/intro-to-go-lab-1/generate) - **this is the recommended way**
-- download a [zip file](https://github.com/UoB-CSA/intro-to-go-lab-1/archive/master.zip)
+- [create a new repo from this template](https://github.com/UoB-CSA/intro-to-go-lab-1/generate) 
+- download a [zip file](https://github.com/UoB-CSA/intro-to-go-lab-1/archive/master.zip) - **this is the recommended way**
 
 Each question is rated to help you balance your work:
 
